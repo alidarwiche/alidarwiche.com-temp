@@ -32,20 +32,20 @@ class Header extends Component {
 
       </nav>
 
-      <div className="row banner">
+      <div className="banner" style={{marginTop: '25rem'}}>
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
-            <hr />
-            <ul className="social">
+            {/* <h1 className="responsive-headline">{name}</h1> */}
+            <h3 className="outline-text" style={{color: '#fff', backgroundColor: 'rgb(218, 222, 229, 0.1)', borderRadius: '6px'}}>Growth is playing with your craft and enjoying the mistakes along the way.</h3>
+            {/* <hr /> */}
+            <ul className="social" style={{ position: 'absolute', bottom: '0', marginLeft: '33%'}}>
                {networks}
             </ul>
          </div>
       </div>
 
-      <p className="scrolldown">
+      {/* <p className="scrolldown">
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
-      </p>
+      </p> */}
 
    </header>
     );
