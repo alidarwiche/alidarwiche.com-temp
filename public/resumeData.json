@@ -74,46 +74,56 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
+        "company":"The Home Depot",
+        "title":"Full Stack Software Engineer",
+        "years":"September 2017 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
+        "company":"Homies.io",
+        "title":"Web Development Intern",
+        "years":"July 2017 - August 2017",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Union Pacific Railroad",
+        "title":"IT Intern",
+        "years":"May 2016 - January 2017",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
     "skills":[
       {
         "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Javascript",
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"HTML",
+        "level":"80%"
       },
       {
         "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"ReactJs",
+        "level":"35%"
       },
       {
-        "name":"MongoDB",
+        "name":"Python",
         "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"Swift",
+        "level":"30%"
       }
     ]
   },
