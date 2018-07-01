@@ -45,7 +45,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"The past year I have spent most of my time working in Python, jQuery, HTML, CSS, and Javascript. All my current development is in React.js as I work to expand my Frontend ability even further.",
     "education":[
       {
         "school":"The University of Texas at Austin",
@@ -102,11 +102,19 @@
         "level":"60%"
       },
       {
+        "name":"jQuery",
+        "level":"65%"
+      },
+      {
         "name":"HTML",
         "level":"80%"
       },
       {
         "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Bootstrap",
         "level":"80%"
       },
       {
@@ -116,6 +124,10 @@
       {
         "name":"Python",
         "level":"80%"
+      },
+      {
+        "name":"Flask",
+        "level":"60%"
       },
       {
         "name":"Java",
