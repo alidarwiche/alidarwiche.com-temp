@@ -48,15 +48,27 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"The University of Texas at Austin",
+        "degree":"Bachelor of Science and Arts",
+        "graduated":"August 2017",
+        "description":"I entered UT Austin as a undeclared major August 2012. I had no idea what I wanted to do with my life, but I knew I wanted it to involve three things: Creativity, Leadership, and Technology. I spent the next five years dedicating my studies to growing under those three pillars."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "school":"College of Natural Sciences",
+        "degree":"Major",
+        "graduated":"Computer Science",
+        "description":"After working in industry for the past year, I've found that the true value of my Computer Science degree came in the diversity of my studies. I distinctly remember solving my first task at The Home Depot using my knowledge of floating-point arithmetic gained from an Operating Systems course. With other courses such as Data Structures, Computer Architerures, Web & Mobile Application Development, and Intro to Security, it's hard not to value my time studying under UT's Computer Science department."
+      },
+      {
+        "school":"McCombs School of Business",
+        "degree":"Minor",
+        "graduated":"Business Management",
+        "description":"I had two clear goals with my business studies: understanding the plumbing that makes a business work (from the accounting to the customer value), and exploring how leadership can impact company culture and cultivate success."
+      },
+      {
+        "school":"College of Liberal Arts",
+        "degree":"Minor",
+        "graduated":"Creative Writing",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
