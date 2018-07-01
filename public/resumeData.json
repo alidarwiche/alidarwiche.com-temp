@@ -57,7 +57,7 @@
         "school":"College of Natural Sciences",
         "degree":"Major",
         "graduated":"Computer Science",
-        "description":"After working in industry for the past year, I've found that the true value of my Computer Science degree came in the diversity of my studies. I distinctly remember solving my first task at The Home Depot using my knowledge of floating-point arithmetic gained from an Operating Systems course. With other courses such as Data Structures, Computer Architerures, Web & Mobile Application Development, and Intro to Security, it's hard not to value my time studying under UT's Computer Science department."
+        "description":"After working in industry for the past year, I've found that the true value of my Computer Science degree came in the diversity of my studies and the foundation it gave me to grow. I distinctly remember solving my first task at The Home Depot using my knowledge of floating-point arithmetic gained from an Operating Systems course. With other courses such as Data Structures, Computer Architerures, Web & Mobile Application Development, and Intro to Security, it's hard not to value my time studying under UT's Computer Science department. Whether it be exploring authentication through oAuth and JWT tokens or discussing API contracts that follow RESTful practices, I find myself constantly in touch with those initial lectures introducing me to these every day topics."
       },
       {
         "school":"McCombs School of Business",
@@ -69,7 +69,7 @@
         "school":"College of Liberal Arts",
         "degree":"Minor",
         "graduated":"Honors Creative Writing",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"I tend to have the most fun explaining the value of Creative Writing to my life. To me, Creative Writing is a study of how our brain produces thought. When I write a new poem, its an opportunity to get in touch with my subconscious and then explore how my brain makes decisions or connections to create meaning. The editing processes isn’t just the process of improving a poem, but a chance to analyze the connections my brain had made and question why it did so. Overall, Creative Writing to me is a way to challenge my self-awareness and explore new ways of thinking either through editing or reading the work of other writers."
       }
     ],
     "work":[
