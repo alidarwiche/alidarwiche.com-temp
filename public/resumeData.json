@@ -9,10 +9,10 @@
     "email": "darwiche2005@utexas.edu",
     "phone": "512-229-7422",
     "address":{
-      "street":"(Your Street)",
+      "street":"9009 Great Hills Trail",
       "city":"Austin",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "state":"TX",
+      "zip": "78759"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
