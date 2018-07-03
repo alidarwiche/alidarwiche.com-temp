@@ -142,34 +142,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Sweet Outdoors",
+        "category":"A Python-Flask web application for discovering parks and recreational events in your area.",
+        "image":"sweetoutdoors.jpg",
+        "url":"https://github.com/cs373gc-fall-2016/SWEetOutdoors"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"PROcrastinator",
+        "category":"An task management iOS application designed to help procrastinators prioritize their work.",
+        "image":"procrastinator.jpg",
+        "url":"https://github.com/asaidalaoui/IOS"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Alarming",
+        "category":"An alarm clock application for Android where the user must complete a task in order to disable their alarm.",
+        "image":"alarming.jpg",
+        "url":"https://github.com/lock14/alarming"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"alidarwiche.com v1.0",
+        "category":"Version 1 of alidarwiche.com. A primarily HTML, CSS, Bootstrap application.",
+        "image":"alidarwiche_v1.png",
+        "url":"https://github.com/alidarwiche/alidarwiche.com-1"
       }
     ]
   },
