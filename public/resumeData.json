@@ -83,13 +83,13 @@
         "company":"Homies.io",
         "title":"Web Development Intern",
         "years":"July 2017 - August 2017",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Working with a team of three developers, I contributed to the backend of a Python-Flask application for a real estate website. Features included map navigation, real estate agent portals, and customer profile functionality. As a part-time intern, I was tasked with implementing basic routes and handling API documentation for our Frontend team using Apiary.io."
       },
       {
         "company":"Union Pacific Railroad",
         "title":"IT Intern",
         "years":"May 2016 - January 2017",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"While at Union Pacific Railroad, I contributed to web applications used by railroad personnel handling industrial hazards and environmental issue occuring on-site. I worked with a team of 10 developers and completed tasks ranging from frontend enhancements to quality assurance. My largest contribution to the application involved writing code to retrieve documents from a 3rd party database using Java, Spring MVC, SQL, and jUnit."
       }
     ],
     "skills":[
