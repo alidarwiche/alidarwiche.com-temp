@@ -4,8 +4,9 @@
     "occupation":"Full Stack Software Engineer",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
+    "linkedinpic":"linkedin-pic.jpg",
     "bio":"I first began coding as a Full Stack Software Engineer two years ago. My main goal as an new developer was gaining a broad understanding of Mobile and Web Application development. As I traversed different projects, I actively bounced between Frontend and Backend tasks looking to gain a practical understanding of an application's architecure. My current challenge is learning about React.js and discovering the benefits it presents as a frontend framework.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"How can I help you or your organization succeed? Let's talk about such possibilities through one of the channels below!.",
     "email": "darwiche2005@utexas.edu",
     "phone": "512-229-7422",
     "address":{
@@ -15,7 +16,7 @@
       "zip": "78759"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"../../public/images/alidarwiche_resume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -77,13 +78,13 @@
         "company":"The Home Depot",
         "title":"Full Stack Software Engineer",
         "years":"September 2017 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"My time with Home Depot is where I’ve found the most growth as a Software Engineer. While on the Performance Engineering team, I developed tools to support Site Reliability Engineers as they monitor and improve Home Depot’s site health."
       },
       {
         "company":"Homies.io",
         "title":"Web Development Intern",
         "years":"July 2017 - August 2017",
-        "description":"Working with a team of three developers, I contributed to the backend of a Python-Flask application for a real estate website. Features included map navigation, real estate agent portals, and customer profile functionality. As a part-time intern, I was tasked with implementing basic routes and handling API documentation for our Frontend team using Apiary.io."
+        "description":"Working with a team of three developers, I contributed to the backend of a Python-Flask application for a real estate website. Features included map navigation, real estate agent portals, and customer profile functionality. As a part-time intern, I was tasked with implementing basic REST routes and handling API documentation for our Frontend team using Apiary.io."
       },
       {
         "company":"Union Pacific Railroad",
