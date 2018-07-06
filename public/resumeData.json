@@ -78,7 +78,10 @@
         "company":"The Home Depot",
         "title":"Full Stack Software Engineer",
         "years":"September 2017 - Present",
-        "description":"My time with Home Depot is where I’ve found the most growth as a Software Engineer. While on the Performance Engineering team, I developed tools to support Site Reliability Engineers as they monitor and improve Home Depot’s site health."
+        "description": [
+          "My time with The Home Depot is where I’ve found the most growth as a Software Engineer. While on the Performance Engineering team, I developed tools to support Site Reliability Engineers as they monitor and improve The Home Depot’s site health. Our team of three engineers developed from scratch an incidents and changes tracking tool using Python with Flask for the backend and Javascript with jQuery for our frontend. My tasks ranged from implementing automation for Site Availability calculations to frontend development of tabular metrics. As the primary frontend developer of the application, I was tasked with implementing Request For Change and Blameless Postmortem form submissions which included auto-populate, typeahead, validation, session storage, and cloning functionality.",
+          "Being on this team has come with incredible opportunities. On multiple occasions, I’ve gotten to speak directly with my customers to insure what I’m developing is satisfying their business needs. I’ve worked intimately with our UX team to design upcoming pages and even redesign pages using UX techniques such as card sorting. I’ve had the opportunity to pair with both Senior frontend and backend developers as we trouble shoot or design new features. I’ve even had the “luxury” of handling emergency hotfixes to resolve production issues ranging from database failures to session caching problems involving Kubernetes clusters."
+        ]
       },
       {
         "company":"Homies.io",

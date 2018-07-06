@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 class Resume extends Component {
+
   render() {
 
     if(this.props.data){
@@ -13,7 +14,12 @@ class Resume extends Component {
       var work = this.props.data.work.map(function(work){
         return <div key={work.company}><h3>{work.company}</h3>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
-            <p>{work.description}</p>
+            { Array.isArray(work.description)
+              ? work.description.map(function(paragraph){
+                  return <p>{paragraph}</p>
+                })
+              : <p>{work.description}</p>
+            }
         </div>
       })
       var skills = this.props.data.skills.map(function(skills){
