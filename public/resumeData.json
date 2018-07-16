@@ -24,11 +24,6 @@
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com/darwiche2005",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/darwiche2005/",
         "className":"fa fa-linkedin"
