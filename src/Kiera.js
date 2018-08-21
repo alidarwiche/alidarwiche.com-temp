@@ -11,8 +11,8 @@ class Kiera extends Component {
 
   render() {
     return (
-      <div className="">
-        <div className="container" style={{marginTop: '20px'}}>
+      <div style={{background: '#ffb759 no-repeat center center fixed', paddingTop:'20px'}}>
+        <div className="container">
           <h2>Spoons</h2>
           <p>Spoons come in funny ways.</p>
           <p>Some are deep and some have weight.</p>
@@ -48,7 +48,7 @@ class Kiera extends Component {
           <p>Because spoons come in funny ways</p>
           <p>and a smile is where they hide.</p>
           <p>––––––––––––––––––––––––––––––</p>
-          <div style={{width:'100%',height:'0',paddingBottom:'133%',position:'relative'}}><iframe src="https://giphy.com/embed/pJIMzAT5mNAXK" width="100%" height="100%" style={{position:'absolute'}} frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/puppy-spoon-yogurt-pJIMzAT5mNAXK">via GIPHY</a></p>
+          <div style={{maxWidth:'350px'}}><div style={{width:'100%',height:'0',paddingBottom:'133%',position:'relative'}}><iframe src="https://giphy.com/embed/pJIMzAT5mNAXK" width="100%" height="100%" style={{position:'absolute'}} frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/puppy-spoon-yogurt-pJIMzAT5mNAXK">via GIPHY</a></p></div>
           <p>––––––––––––––––––––––––––––––</p>
           <p>Hope this wasn't too much!!! I was just hoping to give you a good start to your new day... Take care, Kiera! I'm hear if you need me!</p>
           <br />
