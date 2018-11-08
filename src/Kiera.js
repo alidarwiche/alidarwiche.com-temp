@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 import $ from 'jquery';
+import ResponsiveEmbed from 'react-responsive-embed';
 import './Kiera.css';
 
 class Kiera extends Component {
@@ -12,6 +13,7 @@ class Kiera extends Component {
   render() {
     return (
       <div style={{background: '#ffb759 no-repeat center center fixed', paddingTop:'20px'}}>
+        {/* <ResponsiveEmbed src='https://www.youtube.com/embed/j-YLoDPcc20' allowfullscreen /> */}
         <div className="container">
           <h2>Spoons</h2>
           <p>Spoons come in funny ways.</p>

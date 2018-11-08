@@ -72,7 +72,7 @@
       {
         "company":"The Home Depot",
         "title":"Full Stack Software Engineer",
-        "years":"September 2017 - Present",
+        "years":"September 2017 - August 2018",
         "description": [
           "My time with The Home Depot is where I’ve found the most growth as a Software Engineer. While on the Performance Engineering team, I've developed tools to support Site Reliability Engineers as they monitor and improve The Home Depot’s site health. Our team of three engineers developed from scratch an incidents and changes tracking tool using Python with Flask for the backend and Javascript with jQuery for our frontend. My tasks ranged from implementing automation for Site Availability calculations to frontend development of tabular metrics. As the primary frontend developer of the application, I was tasked with implementing Request For Change and Blameless Postmortem form submissions which included auto-populate, typeahead, validation, session storage, and cloning functionality.",
           "I’ve also contributed to the Frontend ReactJS rewrite of our Reliability Engineering Hub. This application includes multiple dashboards each displaying unique metrics regarding The Home Depot orders and site health. For this rewrite, I handled the initial UX research on our older application. This involved conducting direct interviews with our primary customers, studying our Google Analytics, as well as completing a Card Sort study for our new navigation. During development, I was tasked with handling the rewrite of 7 out of 22 different pages requiring the use of table, graph, and pie chart components.",
